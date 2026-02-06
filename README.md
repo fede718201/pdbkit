@@ -30,3 +30,5 @@ python pdbex.py ntdll.pdb -s THREAD
 ```
 pip install -r requirements.txt
 ```
+
+PS: The code is rough, no proper comments, naming is all over the place. I wrote this for myself and didn't really clean it up before pushing. PRs welcome if you feel like fixing stuff.
